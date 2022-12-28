@@ -1,4 +1,4 @@
-[← Back to all scripts](https://github.com/mrmrrr/AE-scripts)  
+### [← Back to all scripts](https://github.com/mrmrrr/AE-scripts)  
 # Distributing keys evenly 
 This script does not copy ease instead use Easecopy.  
 Works with multiple selected properties.  
